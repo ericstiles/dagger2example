@@ -1,12 +1,12 @@
 Simple Dagger example
 
-#Build
+# Build
 
 ```shell
 mvn clean install
 ```
 
-#Run
+# Run
 From the project root
 ```shell
 java -jar ./target/sample-dagger-app-shaded.jar
